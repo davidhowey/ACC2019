@@ -1,5 +1,5 @@
 # ACC2019
-Matlab code for Paper submmited to the American Control Conference 2019.
+Matlab code for Paper submitted to the American Control Conference 2019.
 1) Required: Mosek: SDP package and Yalmip
 2) data.txt: File with experimental data, native
 3) crossover_data.mat: experimental data in Matlab format
